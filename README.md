@@ -22,3 +22,7 @@ You can also clone the project and run the python file `notebook.py` using the p
 ```bash
 python3 notebook.py
 ```
+
+## Requirement
+
+To run locally, you are required to install `python3`
